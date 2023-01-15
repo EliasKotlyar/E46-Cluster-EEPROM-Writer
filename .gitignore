@@ -1,0 +1,5 @@
+readtest.sh
+test.bin
+writetest.sh
+enable-comport.sh
+__pycache__
